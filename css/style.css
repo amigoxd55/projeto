@@ -1,0 +1,16 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#grupo {
+    display: flex;
+    flex-direction: row left;
+    align-items: center;
+
+}
+
+.texto {
+    padding: auto;
+    padding-left: ;
+
+}
